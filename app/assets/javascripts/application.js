@@ -13,4 +13,10 @@
 //= require rails-ujs
 //= require activestorage
 //= require turbolinks
+//= require assets/js/jquery.min.js
+//= require assets/js/jquery.dropotron.min.js
+//= require assets/js/browser.min.js
+//= require assets/js/breakpoints.min.js
+//= require assets/js/util.js
+//= require assets/js/main.js
 //= require_tree .
